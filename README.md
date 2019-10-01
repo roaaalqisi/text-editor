@@ -10,3 +10,4 @@ ex:
 1.NotePad++ is a free text editor for Windows Computers only
 2.TextWrangler is for Mac computers only, and you used to be able to download it from the Mac App Store
 3.BB Edit is software that you purchase. But BB Edit comes with a 30-day free trial
+![]( http://www.barebones.com/images/bbedit/screenshot-main.png)
